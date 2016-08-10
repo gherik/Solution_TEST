@@ -3,8 +3,8 @@
     <LanguagePack ID="ENU" IsDefault="true">
       <DisplayStrings>
         <DisplayString ElementID="ManagementPack1">
-          <Name>Management Pack 1</Name>
-          <Description>Management Pack 1</Description>
+          <Name>ManagementPack1</Name>
+          <Description>ManagementPack1</Description>
         </DisplayString>
       </DisplayStrings>
     </LanguagePack>
